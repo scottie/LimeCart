@@ -1,0 +1,1 @@
+https://github.com/Limecoin/LimeCart/wiki/Installation
